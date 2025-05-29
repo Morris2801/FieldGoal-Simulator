@@ -8,6 +8,7 @@
 ## Project Overview
 
 This project focuses on the development of a physical launcher and a 3D simulation to study the parabolic motion of projectiles, specifically modeling a field goal kick under varying wind conditions. Our primary objective was to build a system capable of accurately launching ping-pong balls and then analyze their trajectory, incorporating the complexities of wind influence in a 3D environment. This tool aims to provide a robust platform for understanding the principles of parabolic motion, evaluating the impact of launch angle, initial velocity, and projectile mass, and offering a repeatable experimental setup.
+
 This project won 3rd place in Tecnológico de Monterrey's Expo Ingenierías 2023, in the category of Basic Physical Prototype. 
 
 ## Features
